@@ -28,4 +28,3 @@ eureka/*.jar
 eureka/lib/
 eureka/target/
 eureka/logs/
-*.properties
