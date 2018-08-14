@@ -1,4 +1,9 @@
 .idea/
+*.jar
+lib/
+target/
+logs/
+
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -23,8 +28,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-
-eureka/*.jar
-eureka/lib/
-eureka/target/
-eureka/logs/
