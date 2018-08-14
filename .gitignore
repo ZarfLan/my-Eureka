@@ -3,6 +3,7 @@
 lib/
 target/
 logs/
+application.properties
 
 !.mvn/wrapper/maven-wrapper.jar
 
